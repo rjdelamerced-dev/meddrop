@@ -1,0 +1,1 @@
+<div class="empty-state large"><span>⌕</span><h3>That page isn't here</h3><p>Let's get you back to your MedDrop workspace.</p><a class="primary-button" href="?page=dashboard">Go to dashboard →</a></div>

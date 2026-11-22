@@ -1,0 +1,4 @@
+/storage/uploads/*
+!/storage/uploads/.htaccess
+/uploads/avatars/user[0-9]*
+/.env
